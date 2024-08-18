@@ -19,7 +19,7 @@ public class Boy {
      */
     private String name;
 
-    private String test;
+    private String test1;
 
     /**
      *
